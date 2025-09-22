@@ -1,0 +1,42 @@
+.container1{
+    border: 2px solid black;
+    width: 300px;
+    height: 523px;
+    background-color: black;
+
+}
+
+.firstbtn{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.secondbtn{
+    display: flex;
+    justify-content: space-between;
+}
+.thirdbtn{
+    display: flex;
+    justify-content: space-between;
+}
+.forthbtn{
+    display: flex;
+    justify-content: space-between;
+}
+.fifthbtn{
+    display: flex;
+    justify-content: space-between;
+}
+input{
+    height: 60px;
+    width: 60px;
+    margin: 10px;
+    
+}
+#displayscreen{
+   width: 250px;
+   height: 60px;
+   
+    
+}
+
